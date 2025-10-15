@@ -12,9 +12,6 @@ Gray (#9D968D) - Supporting text and borders
 Dark Gray (#373A36) - Secondary text
 White - Clean backgrounds and contrast
 
-# features
-Do not include react or similar advanced components unless specifically instructed.  The app must be able to run in a standard browser environment based on css, javascript, html and so on.
-
 # updates
  Every time you make a change to a file, add a comment at the beginning of the code that includes the version number and a one sentence summary of the latest changes made.  Increment the version number by one if it already exists.
 
