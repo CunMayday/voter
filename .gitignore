@@ -1,0 +1,12 @@
+# v1.0: Ignore dependencies, build artifacts, and environment files.
+node_modules
+.dist
+.vscode
+.DS_Store
+.env
+.env.local
+npm-debug.log*
+.yarn*
+*.log
+/build
+/dist
