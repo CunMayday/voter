@@ -1,5 +1,5 @@
 {
-  "_comment": "v1.1: Added metadata describing initial package configuration.",
+  "_comment": "v1.2: Added @vitejs/plugin-react to devDependencies for Vite React builds.",
   "name": "voter",
   "private": true,
   "version": "0.0.0",
@@ -23,6 +23,7 @@
     "eslint-plugin-react": "^7.34.4",
     "postcss": "^8.4.41",
     "tailwindcss": "^3.4.7",
-    "vite": "^5.2.0"
+    "vite": "^5.2.0",
+    "@vitejs/plugin-react": "^4.2.1"
   }
 }
